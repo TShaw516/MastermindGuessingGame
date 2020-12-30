@@ -1,0 +1,13 @@
+C:\Users\Tom\source\repos\QuadaxMastermind\QuadaxMastermind\bin\Debug\netcoreapp3.1\QuadaxMastermind.exe
+C:\Users\Tom\source\repos\QuadaxMastermind\QuadaxMastermind\bin\Debug\netcoreapp3.1\QuadaxMastermind.deps.json
+C:\Users\Tom\source\repos\QuadaxMastermind\QuadaxMastermind\bin\Debug\netcoreapp3.1\QuadaxMastermind.runtimeconfig.json
+C:\Users\Tom\source\repos\QuadaxMastermind\QuadaxMastermind\bin\Debug\netcoreapp3.1\QuadaxMastermind.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\QuadaxMastermind\QuadaxMastermind\bin\Debug\netcoreapp3.1\QuadaxMastermind.dll
+C:\Users\Tom\source\repos\QuadaxMastermind\QuadaxMastermind\bin\Debug\netcoreapp3.1\QuadaxMastermind.pdb
+C:\Users\Tom\source\repos\QuadaxMastermind\QuadaxMastermind\obj\Debug\netcoreapp3.1\QuadaxMastermind.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\QuadaxMastermind\QuadaxMastermind\obj\Debug\netcoreapp3.1\QuadaxMastermind.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\QuadaxMastermind\QuadaxMastermind\obj\Debug\netcoreapp3.1\QuadaxMastermind.AssemblyInfo.cs
+C:\Users\Tom\source\repos\QuadaxMastermind\QuadaxMastermind\obj\Debug\netcoreapp3.1\QuadaxMastermind.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\QuadaxMastermind\QuadaxMastermind\obj\Debug\netcoreapp3.1\QuadaxMastermind.dll
+C:\Users\Tom\source\repos\QuadaxMastermind\QuadaxMastermind\obj\Debug\netcoreapp3.1\QuadaxMastermind.pdb
+C:\Users\Tom\source\repos\QuadaxMastermind\QuadaxMastermind\obj\Debug\netcoreapp3.1\QuadaxMastermind.genruntimeconfig.cache
